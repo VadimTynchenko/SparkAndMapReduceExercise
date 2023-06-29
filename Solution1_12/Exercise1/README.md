@@ -45,4 +45,7 @@ job.setJobName("name") - Name for job <br />
 * Set format for input and output (job.setInputFormatClass(TextInputFormat.class) and job.setOutputFormatClass(TextOutputFormat.class))<br />
 * Set map and reduce class (job.setMapperClass(Mapper.class) and job.setReducerClass(Reducer.class))<br />
 * Set type for key and value for map and reducer (job.setMapOutputKeyClass(Text.class);job.setMapOutputValueClass(IntWritable.class); and job.setOutputKeyClass(Text.class);job.setOutputValueClass(IntWritable.class);)<br />
-* Set number of reducer (job.setNumReduceTasks(numberOfReduces)). If we have two input file, then we shoul have 2 reducers. Each reducer create out file for each input file.
+* Set number of reducer (job.setNumReduceTasks(numberOfReduces)). 
+
+###### Run app
+* For start app, we package project to jar, and then use ####### hadoop jar \<path/to/jar> \<execute.class> args(if in input use file, app count just words in it, but if use folder, app count words in all directory)
