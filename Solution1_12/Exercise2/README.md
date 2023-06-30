@@ -4,6 +4,8 @@
 * Output: number of occurrences of each word
 appearing in the input files
 
+#### Main difference between execrise 1 and 2 is count of input and output files
+
 #### Example:
 * Input:  Toy example<br />
         file for Hadoop.<br />
