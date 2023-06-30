@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.vadimtynchenko.bigdata.hadoop.exercise6</groupId>
-    <artifactId>Exercise5WithCombiner</artifactId>
+    <artifactId>Exercise6</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>"Hadoop - Exercise #6"</name>
