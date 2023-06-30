@@ -1,22 +1,17 @@
-## Exercise 2
-#### Word Count Problem (multiple files)
-* Input: (unstructed) text files in one folder
-* Output: number of occurrences of each word
-appearing in the input files
-
-#### Main difference between execrise 1 and 2 is count of input and output files
+## Exercise 3
+#### PM10 pollution analysis
+* Input:  (structured) textual file containing the
+daily value of PM10 for a set of sensors
+* Output: report for each sensor the number of days
+with PM10 above a specific threshold
 
 #### Example:
-* Input:  Toy example<br />
-        file for Hadoop.<br />
-        Hadoop running<br />
-        example.<br />
-* Output:   (toy, 1) <br />
-          (example, 2)<br />
-          (file, 1) <br />
-          (for, 1) <br />
-          (hadoop, 2) <br />
-          (running, 1)<br />
+* Input:  s1,2016-01-01 20.5<br />
+        s2,2016-01-01 30.1<br />
+* Output:   (s1, 2) <br />
+(s2, 1)<br />
+
+
 
 ##### Explanation
 Use Java hadoop API. In maven use dependency:<br />
@@ -24,18 +19,18 @@ Use Java hadoop API. In maven use dependency:<br />
 
 ###### Create mapper. 
 (extend from mapper)<br />
-Input for mapper: LongWritable(it's a key for each char) and Text(it's text, obviously).<br />
-At first, split each word into list.
-Then for each word in list of words cleanese it(set word to lower case) 
-and use context.write(key, value) funtion to write words as key and 1 as value. <br />
-Output: Text and IntWritable. (for example output for mapper will be (word, 1), (word, 1), (example. 1) )
+Input for mapper: Text and Text.<br />
+At first, split each key as sensor_Id and date.
+Then split value for each sensor as PM10Level and compare with PM10Threshold.<br />
+If value more than threshold, use context.write to output sensor_ID and int 1.<br />
+Output: Text and IntWritable. (for example output for mapper will be (s1, 1), (s1, 1), (s2. 1) )
 
 ###### Create reducer. 
 (extend from reducer)<br />
 Input for reducer: as same as in mapper's output(Text, IntWritable). Create temp int as 0. 
 Iterate each value and sum temp int and value.get().
 Then use context.write(key, value). <br />
-Output: Text and IntWritable. (for example (word, 3), (example, 3) )
+Output: Text and IntWritable. (for example (s1, 2), (s2, 1) )
 
 ###### Create Driver.
 (extend from Configured and implement Tool)<br />
