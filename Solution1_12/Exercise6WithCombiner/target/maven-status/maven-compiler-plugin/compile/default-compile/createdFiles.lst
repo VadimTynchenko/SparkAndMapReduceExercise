@@ -1,0 +1,4 @@
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/DriverBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/MapperBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/ReducerBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/CombinerBigData.class

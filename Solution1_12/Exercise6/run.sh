@@ -1,6 +1,6 @@
 # Remove folders of the previous run
 hdfs dfs -rm -r /ex6
-rm -r ./ex5/
+rm -r ./ex6_out/
 
 # Create exercise folder
 hdfs dfs -mkdir /ex6
