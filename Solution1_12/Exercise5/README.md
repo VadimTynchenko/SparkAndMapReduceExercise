@@ -1,4 +1,4 @@
-## Exercise 4
+## Exercise 5
 #### PM10 pollution analysis per city zone
 * Input:  collection of (structured) textual csv files
 containing the daily value of PM10 for a set of
