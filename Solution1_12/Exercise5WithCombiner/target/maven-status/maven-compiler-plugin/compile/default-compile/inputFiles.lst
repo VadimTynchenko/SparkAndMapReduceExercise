@@ -1,0 +1,5 @@
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise5WithCombiner/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/MapperBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise5WithCombiner/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/ReducerBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise5WithCombiner/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/StatisticWritable.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise5WithCombiner/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/DriverBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise5WithCombiner/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/CombinerBigData.java

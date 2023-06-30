@@ -1,0 +1,5 @@
+com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/MapperBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/CombinerBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/DriverBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/StatisticWritable.class
+com/vadimtynchenko/bigdata/hadoop/exercise5withcombiner/ReducerBigData.class
