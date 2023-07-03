@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fd96bd-e048-4149-8a0b-a6a8079380d8" name="Changes" comment="Initial commit Exercise 6">
-      <change afterPath="$PROJECT_DIR$/ex6_data_withCombiner/sensors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/CombinerBigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/DriverBigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/MapperBigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/ReducerBigData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise6/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise6/run.sh" afterDir="false" />
+    <list default="true" id="a5fd96bd-e048-4149-8a0b-a6a8079380d8" name="Changes" comment="Solved Exercise 6 with Combiner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombiner/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombiner"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombiner&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
