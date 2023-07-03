@@ -1,0 +1,5 @@
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MinMaxWritable.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MapperBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/DriverBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/ReducerBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/CombinerBigData.class

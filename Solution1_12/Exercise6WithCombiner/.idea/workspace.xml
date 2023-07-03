@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5fd96bd-e048-4149-8a0b-a6a8079380d8" name="Changes" comment="Solved Exercise 6 with Combiner">
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/ex6_data_withCombiner_datatype/sensors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/CombinerBigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/DriverBigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MapperBigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MinMaxWritable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/ReducerBigData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,0 +1,5 @@
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MinMaxWritable.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/CombinerBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/DriverBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/MapperBigData.java
+/Users/vadimtynchenko/Desktop/SparkAndMapReduceExercise/Solution1_12/Exercise6WithCombinerDataType/src/main/java/com/vadimtynchenko/bigdata/hadoop/exercise6withcombinerdatatype/ReducerBigData.java
