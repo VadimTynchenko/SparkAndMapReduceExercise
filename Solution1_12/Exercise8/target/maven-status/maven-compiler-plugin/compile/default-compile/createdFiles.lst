@@ -1,0 +1,5 @@
+com/vadimtynchenko/bigdata/hadoop/exercise8/MapperBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise8/ReducerBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise8/DriverBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise8/MapperBigDataStep2.class
+com/vadimtynchenko/bigdata/hadoop/exercise8/ReducerBigDataStep2.class
