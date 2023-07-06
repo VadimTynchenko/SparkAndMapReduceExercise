@@ -1,5 +1,6 @@
 # Remove folders of the previous run
 hdfs dfs -rm -r /ex8
+rm -r ./ex8_out/
 rm -r ./ex8_out_final/
 
 # Create exercise folder
