@@ -1,0 +1,4 @@
+com/vadimtynchenko/bigdata/hadoop/exercise8singlejob/MonthIncome.class
+com/vadimtynchenko/bigdata/hadoop/exercise8singlejob/MapperBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise8singlejob/ReducerBigData.class
+com/vadimtynchenko/bigdata/hadoop/exercise8singlejob/DriverBigData.class
